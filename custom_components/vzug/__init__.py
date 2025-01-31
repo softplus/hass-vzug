@@ -1,5 +1,5 @@
 import logging
-
+# v-zug-II / vzug2 integration
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import CONF_PASSWORD, CONF_USERNAME, Platform
 from homeassistant.core import HomeAssistant

@@ -271,7 +271,7 @@ class VZugApi:
         raw: bool = False,
         expected_type: Any = None,
         reject_empty: bool = False,
-        attempts: int = 5,
+        attempts: int = 30,
         retry_delay: float = 2.0,
         value_on_err: Callable[[], Any] | None = None,
     ) -> Any:

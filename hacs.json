@@ -1,7 +1,7 @@
 {
     "name": "V-ZUG-II",
-    "filename": "vzug.zip",
-    "hide_default_branch": true,
+    "filename": "vzug2.zip",
+    "hide_default_branch": false,
     "homeassistant": "2023.8.2",
     "render_readme": true,
     "zip_release": true
