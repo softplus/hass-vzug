@@ -1,5 +1,5 @@
 {
-  "domain": "vzug2",
+  "domain": "vzug",
   "name": "V-ZUG",
   "after_dependencies": [
     "network"

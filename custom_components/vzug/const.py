@@ -1,5 +1,5 @@
 """Constants for the V-ZUG integration."""
 
-DOMAIN = "vzug2"
+DOMAIN = "vzug"
 
 CONF_BASE_URL = "base_url"

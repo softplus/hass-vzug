@@ -2,4 +2,4 @@
 
 # zip vzug folder in custom_components and save as vzug.zip
 
-zip -r vzug2.zip custom_components/vzug
+zip -r vzug.zip custom_components/vzug
